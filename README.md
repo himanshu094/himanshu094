@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/himanshushakya/](https://www.linkedin.com/in/himanshushakya/)
+- 👨‍💻 All of my details are available at [https://www.linkedin.com/in/himanshushakya/](https://www.linkedin.com/in/himanshushakya/)
 
 - 💬 Ask me about **ReactJs, JavaScript, HTML, CSS, NodeJs, ExpressJs, MySql**
 
