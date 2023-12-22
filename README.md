@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Shakya</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-
+<img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="400px" align="right" alt="">
 - 🔭 I’m currently working on **Electronic Shop**
 
 - 🌱 I’m currently learning **React Native**
